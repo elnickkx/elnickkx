@@ -7,15 +7,15 @@
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikkhilbutolakaizen" alt="nikkhilbutolakaizen" /></a> </p>
  
-- 🔭 I’m currently working on **Kaizen Hub(Portal Backend Services)**
+- 🔭 I’m currently working on **Kaizen Hub(Portal Backend & Architecture)**
  
 - 🌱 I’m currently learning **Adv. Golang (Gin Framework) & Rust**
  
 - 👯 I’m looking to collaborate on **OpenSource Project (Golang, Python3)**
  
-- 💬 Ask me about my professional journey and experience I have ! **Core Python3(>6.3 yrs: DjangoRF, Fast API,), Golang(~2 yrs: Gin Framework), C++(<1.5 yrs), Elixir(<1.3 yrs: Elixir Framework)**
+- 💬 Ask me about my professional journey and experience I have in **Core Python3(>6.3 yrs: DjangoRF, Fast API), Golang(~2 yrs: Gin Framework), C++(<1.5 yrs), Elixir(<1.3 yrs: Elixir Framework), AWS Services (~5 years), Azure Web Services (1.5 years)**
  
-- 📫 How to reach me @ **nikkhil.butola@outlook.com**
+- 📫 You can reach me @ **nikkhil.butola@outlook.com**
 
 - 👨🏼‍💻 You can catch on Corporate profile - **[Kaizen GitHub](https://github.com/NikkhilButolaKaizen/NikkhilButolaKaizen)**
   
