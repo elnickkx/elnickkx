@@ -12,11 +12,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elnickkx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=nightowl&hide_border=false" height="150" alt="languages graph"  />
 </div>
  
-###
- 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
- 
-###
  
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -108,15 +103,7 @@
 <br clear="both">
  
 <img src="https://raw.githubusercontent.com/elnickkx/elnickkx/output/snake.svg" alt="Snake animation" />
- 
-###
- 
-<div align="center">
-<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
- 
-###
- 
+  
 <div align="left">
 <a href="https://www.linkedin.com/in/nikkhilbutola-uk" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
