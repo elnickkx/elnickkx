@@ -1,18 +1,33 @@
  
-<h2 align="center">Hi 👋, I'm Nikkhil Butola<br><br>I’m an avid Competitive programmer and Innovator. Being enough passionate about Programing and AI Tech in early college days to workin' with Scaled Startups’, therefore dwelling into solving extra-ordinary challenges with Modern Technologies and evolving to transform innovative ideas into Engineering Marvels ...</h2>
+<h2 align="center">Hi 👋, I'm Nikkhil Butola</h2>
  
-###
+<h3 align="center">I’m an avid Competitive programmer and Innovator. Being passionate enough about Programing and AI Tech in early college days to workin' with Scaled Startups’, therefore dwelling into solving extra-ordinary challenges with Modern Technologies and evolving to transform innovative ideas into Engineering Marvels ...</h3>
  
-<h2 align="left">🔭 I’m currently working on Kaizen Hub(Portal Backend & Architecture)<br><br>🌱 I’m currently learning Adv. Golang (Gin Framework) & Rust<br><br>👯 I’m looking to collaborate on OpenSource Project (Golang, Python3)<br><br>💬 Ask me about my professional journey and experience I have ! Core Python3(>6.3 yrs: DjangoRF, Fast API,), Golang(~2 yrs: Gin Framework), C++(<1.5 yrs), Elixir(<1.3 yrs: Elixir Framework)<br><br>📫 How to reach me at nikkhil.butola@kaizenreporting.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1MtmQkP1jnQBLwG5e3_9z9lkd0lKGaHee/view?usp=drivesdk</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikkhilbutolakaizen&label=Profile%20views&color=0e75b6&style=flat" alt="nikkhilbutolakaizen" /> </p>
  
-###
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikkhilbutolakaizen" alt="nikkhilbutolakaizen" /></a> </p>
+ 
+- 🔭 I’m currently working on **Kaizen Hub(Portal Backend Services)**
+ 
+- 🌱 I’m currently learning **Adv. Golang (Gin Framework) & Rust**
+ 
+- 👯 I’m looking to collaborate on **OpenSource Project (Golang, Python3)**
+ 
+- 💬 Ask me about my professional journey and experience I have ! **Core Python3(>6.3 yrs: DjangoRF, Fast API,), Golang(~2 yrs: Gin Framework), C++(<1.5 yrs), Elixir(<1.3 yrs: Elixir Framework)**
+ 
+- 📫 How to reach me @ **nikkhil.butola@outlook.com**
+
+- 👨🏼‍💻 You can catch on Corporate profile - **[Kaizen GitHub](https://github.com/NikkhilButolaKaizen/NikkhilButolaKaizen)**
+  
+- 📄 Know about my experiences - **[Professional Resume](https://drive.google.com/file/d/1MtmQkP1jnQBLwG5e3_9z9lkd0lKGaHee/view?usp=drivesdk)**
  
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=elnickkx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true" height="150" alt="stats graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elnickkx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=nightowl&hide_border=false" height="150" alt="languages graph"  />
 </div>
  
- 
+<br clear="both">
+
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
 <img width="12" />
@@ -87,19 +102,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
 </div>
  
-###
- 
-<div align="left">
-<img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-<img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
- 
-###
- 
 <br clear="both">
  
 <img src="https://raw.githubusercontent.com/elnickkx/elnickkx/output/snake.svg" alt="Snake animation" />
@@ -112,7 +114,17 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
 </div>
- 
+
+<br clear="both">
+
+###
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elnickkx&" alt="nikkhilbutola-uk" /></p>
+
+###
+
+<br clear="both">
+
 ###
  
 <div align="center">
