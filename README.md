@@ -1,7 +1,7 @@
  
 <h2 align="center">Hi 👋, I'm Nikkhil Butola</h2>
  
-<h3 align="center">I’m an avid Competitive programmer and Innovator. Being passionate enough about Programing and AI Tech in early college days to workin' with Scaled Startups’, therefore dwelling into solving extra-ordinary challenges with Modern Technologies and evolving to transform innovative ideas into Engineering Marvels ...</h3>
+<h3 align="center">I’m an avid Competitive programmer and Innovator. Being passionate enough about Programing and AI Tech in early college days to workin' with Scaled Startups’, subsequently dwelling into solving extra-ordinary challenges with Modern Technologies and evolving to transform innovative ideas into Engineering Marvels ...</h3>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikkhilbutolakaizen&label=Profile%20views&color=0e75b6&style=flat" alt="nikkhilbutolakaizen" /> </p>
  
