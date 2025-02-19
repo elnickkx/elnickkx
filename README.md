@@ -120,7 +120,7 @@
 
 ###
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elnickkx" alt="nikkhilbutola-uk" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=elnickkx&theme=nightowl" alt="Nikkhil Butola Streak" /></a>
 
 ###
 
