@@ -118,11 +118,6 @@
 
 <br clear="both">
 
-###
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elnickkx&" alt="nikkhilbutola-uk" /></p>
-
-###
 
 <br clear="both">
 
