@@ -120,8 +120,7 @@
 
 ###
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=elnickkx&theme=nightowl" alt="Nikkhil Butola Streak" /></a>
-
+[![Nikkhil Butola Streak](https://streak-stats.demolab.com/?user=elnickkx&theme=flag-india)](https://git.io/streak-stats)
 ###
 
 
