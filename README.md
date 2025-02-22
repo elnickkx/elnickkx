@@ -3,7 +3,14 @@
  
 <h3 align="center">I’m an avid Competitive programmer and Innovator. Being passionate enough about Programing and AI Tech in early college days to workin' with Scaled Startups’, subsequently dwelling into solving extra-ordinary challenges with Modern Technologies and evolving to transform innovative ideas into Engineering Marvels ...</h3>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikkhilbutolakaizen&label=Profile%20views&color=0e75b6&style=flat" alt="nikkhilbutolakaizen" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elnickkx&label=Profile%20views&color=0e75b6&style=flat" alt="nikkhilbutola-uk" /> </p>
+
+<p align="center">
+<a href="https://github.com/catppuccin/github-readme-streak-stats/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/github-readme-streak-stats?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+<a href="https://github.com/catppuccin/github-readme-streak-stats/issues"><img src="https://img.shields.io/github/issues/catppuccin/github-readme-streak-stats?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+<a href="https://github.com/catppuccin/github-readme-streak-stats/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/github-readme-streak-stats?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+</p>
+ 
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikkhilbutolakaizen" alt="nikkhilbutolakaizen" /></a> </p>
  
