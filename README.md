@@ -24,7 +24,7 @@
  
 - 📫 You can reach me @ **nikkhil.butola@outlook.com**
   
-- 📄 Know about my experiences - **[Professional Resume](https://drive.google.com/file/d/1b7JZMDBHPpZRcHYPegPdMCYN-V3Y6DnL/view?usp=sharing)**
+- 📄 Know about my experiences - **[Professional Resume](https://drive.google.com/file/d/1fmKD3I32roEytaDeclxNojCe2DK0Zh6d/view?usp=sharing)**
  
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=elnickkx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true" height="150" alt="stats graph"  />
