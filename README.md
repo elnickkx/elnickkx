@@ -26,7 +26,7 @@
 
 - 👨🏼‍💻 You can catch on Corporate profile - **[Kaizen GitHub](https://github.com/NikkhilButolaKaizen/NikkhilButolaKaizen)**
   
-- 📄 Know about my experiences - **[Professional Resume](https://drive.google.com/file/d/1MtmQkP1jnQBLwG5e3_9z9lkd0lKGaHee/view?usp=drivesdk)**
+- 📄 Know about my experiences - **[Professional Resume](https://drive.google.com/file/d/1C0x8okAvDx2sETr0aoktYkEQeqwooe4u/view?usp=sharing)**
  
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=elnickkx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true" height="150" alt="stats graph"  />
