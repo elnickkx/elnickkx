@@ -27,8 +27,8 @@
 - 📄 Know about my experiences - **[Professional Resume](https://drive.google.com/file/d/1fmKD3I32roEytaDeclxNojCe2DK0Zh6d/view?usp=sharing)**
  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=elnickkx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=elnickkx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=nightowl&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=elrudrakssh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=elrudrakssh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=nightowl&hide_border=false" height="150" alt="languages graph"  />
 </div>
  
 <br clear="both">
@@ -110,7 +110,7 @@
  
 <br clear="both">
  
-<img src="https://raw.githubusercontent.com/elnickkx/elnickkx/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/elrudrakssh/elrudrakssh/output/snake.svg" alt="Snake animation" />
   
 <div align="center">
 <a href="https://www.linkedin.com/in/nikkhilbutola-uk" target="_blank">
@@ -125,7 +125,7 @@
 
 ###
 <div align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=elnickkx&theme=flag-india" alt="Nikkhil Butola Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=elrudrakssh&theme=flag-india" alt="Nikkhil Butola Streak" /></a>
 </div>
 
 ###
@@ -135,7 +135,7 @@
 ###
  
 <div align="center">
-<img src="https://profile-counter.glitch.me/elnickkx/count.svg?"  />
+<img src="https://profile-counter.glitch.me/elrudrakssh/count.svg?"  />
 </div>
  
 ###
