@@ -18,7 +18,7 @@
  
 - 🌱 I’m currently learning **Adv. Golang (Gin Framework) & Rust**
  
-- 👯 I’m looking to collaborate on **OpenSource Project (Golang, Python3)**
+- 👯 I’m looking to collaborate on **OpenSource GenAI Project (Golang, Python3)**
  
 - 💬 Ask me about my professional journey and experience I have in **Core Python3(>6.3 yrs: DjangoRF, Fast API), Golang(~2 yrs: Gin Framework), C++(<1.5 yrs), Elixir(<1.3 yrs: Elixir Framework), AWS Services (~5 years), Azure Web Services (1.5 years)**
  
